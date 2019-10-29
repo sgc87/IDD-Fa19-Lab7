@@ -1,6 +1,6 @@
 # Video Doorbell, Lab 7
 
-*A lab report by John Q. Student*
+*A lab report by Samuel Choi*
 
 ### In This Report
 
@@ -12,11 +12,17 @@
 
 **a. Link to a video of your HelloYou sketch running.**
 
+[Link to demo video](https://youtu.be/jnzSSknBo44)
+
 ## Part B. Web Camera
 
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**
 
+Firstly, there's there the inclusion of the extra button for taking the picture. Also, the variables in the pictureServer file are dynamic, whereas in the server file, they're static. Also, pictureServer.js has the NodeWebcam variable, which is used to take, store, and upload the piture from the webcam. 
+
 **b. Include a video of your working video doorbell**
+
+[Video of working doorbell](https://youtu.be/d132xfT4NHg)
 
 ## Part C. Make it your own
 
