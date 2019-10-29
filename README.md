@@ -33,3 +33,5 @@ I've attempted to implement Canva, GM, and OpenCV, but what I already had seemed
 **b. Upload a video of your working modified project**
 
 [Demo video of burgler photo capture system](https://youtu.be/F2tOV9apk38)
+
+[Arduino code for the burgler photo capture system](https://github.com/sgc87/IDD-Fa19-Lab7/blob/master/prelab7.ino)
