@@ -28,4 +28,8 @@ Firstly, there's there the inclusion of the extra button for taking the picture.
 
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**
 
+I've attempted to implement Canva, GM, and OpenCV, but what I already had seemed to work pretty well. I modified the Arduino code in a hybrid of past labs. I took the pressure sensor and used that as the camera trigger so that it takes a picture of the burgler or trespasser. 
+
 **b. Upload a video of your working modified project**
+
+[Demo video of burgler photo capture system](https://youtu.be/F2tOV9apk38)
